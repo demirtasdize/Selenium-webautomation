@@ -1,0 +1,9 @@
+C:\Users\Dize\source\repos\Staj\Selenium\bin\Debug\Selenium.exe.config
+C:\Users\Dize\source\repos\Staj\Selenium\bin\Debug\Selenium.exe
+C:\Users\Dize\source\repos\Staj\Selenium\bin\Debug\Selenium.pdb
+C:\Users\Dize\source\repos\Staj\Selenium\bin\Debug\WebDriver.dll
+C:\Users\Dize\source\repos\Staj\Selenium\obj\Debug\Selenium.csprojAssemblyReference.cache
+C:\Users\Dize\source\repos\Staj\Selenium\obj\Debug\Selenium.csproj.CoreCompileInputs.cache
+C:\Users\Dize\source\repos\Staj\Selenium\obj\Debug\Selenium.csproj.CopyComplete
+C:\Users\Dize\source\repos\Staj\Selenium\obj\Debug\Selenium.exe
+C:\Users\Dize\source\repos\Staj\Selenium\obj\Debug\Selenium.pdb
